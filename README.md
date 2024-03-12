@@ -1,10 +1,9 @@
-👋 Hello! I’m Jehoshua, a Junior Full Stack Developer. Prior to making a career change into tech, i taught computing to a variety of ages, and decided to tackle Makers' 16-week bootcamp, which solidifed my decision to become a Software developer.
+👋 Hello! I’m Jehoshua, a Junior Full Stack Developer. Prior to this, I taught computing to a variety of ages, which ultimately sparked my curiosity for all things tech! 
 
-I am looking to collaborate on exciting projects!
-
-🌱 I’m currently learning Python, Javascript, Swift
+I have just completed an enlightening 16-week bootcamp at Makers, where i was challenged to re-think 'how to learn' and am eager to keep on building exciting projects!
 
 
+🌱 I’m currently learning Python, Javascript, Swift.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVJehoshua&layout=compact&theme=dark)
 
