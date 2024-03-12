@@ -1,4 +1,4 @@
-- 👋 Hello! I’m Jehoshua, a Junior Full Stack Developer. Prior to making a career change into tech, i taught computing to a variety of ages, and decided to tackle Makers' 16-week bootcamp, which solidifed my decision to become a Software developer.
+👋 Hello! I’m Jehoshua, a Junior Full Stack Developer. Prior to making a career change into tech, i taught computing to a variety of ages, and decided to tackle Makers' 16-week bootcamp, which solidifed my decision to become a Software developer.
 
 I am looking to collaborate on exciting projects!
 
