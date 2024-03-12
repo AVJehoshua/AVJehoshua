@@ -1,4 +1,5 @@
- <h2 align="center"> 👋 Hello! I’m Jehoshua </h2> A Junior Full Stack Developer. Prior to this, I taught computing to a variety of ages, which ultimately sparked my curiosity for all things tech! I have just completed an enlightening 16-week bootcamp at Makers, where i was challenged to re-think 'how to learn' and am eager to keep on building exciting projects!
+ <h2 align="center"> 👋 Hello! I’m Jehoshua </h2> 
+I'm a passionate, Junior Full Stack Developer. Prior to this, I taught computing to a variety of ages, which ultimately sparked my curiosity for all things tech! I have just completed an enlightening 16-week bootcamp at Makers, where i was challenged to re-think 'how to learn' and am eager to keep on building exciting projects!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
