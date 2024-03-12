@@ -2,10 +2,15 @@
 
 I am looking to collaborate on exciting projects!
 
-- 🌱 I’m currently learning Python, Javascript, Swift
+🌱 I’m currently learning Python, Javascript, Swift
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVJehoshua&layout=compact&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AVJehoshua&theme=navy-gear&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
 <!---
 AVJehoshua/AVJehoshua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
